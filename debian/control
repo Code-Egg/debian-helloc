@@ -1,0 +1,15 @@
+Source: hellodeb
+Maintainer: QQ <123@gmail.com>
+Standards-Version: 1.0.0
+Priority: optional
+Section: utils
+
+Package: hellodeb
+Architecture: amd64
+Description: hello world for Debian packaging
+ This is an hello program to demonstrate
+ Debian packaging.
+
+Package: hellodeb-doc
+Architecture: all
+Description: hellodeb documentation
