@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: hellodeb
-Upstream-Contact: 123@gmail.com
+Upstream-Contact: coldegg449@gmail.com
 Source: https://github.com/Code-Egg/debian-helloc
 
 Files: *
