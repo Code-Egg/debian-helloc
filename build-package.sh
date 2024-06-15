@@ -8,7 +8,7 @@ fi
 BUILD=$1
 shift
 
-VERSION=`dpkg-parsechangelog --show-field Version`
+VERSION=`dpkg-parsechangelog --show-field Version | cut -f1 -d'-'`
 DEBPATH=build
 
 ./clean.sh
