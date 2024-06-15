@@ -2,6 +2,6 @@
 
 int main() 
 {
-  printf("hello deb\n");
+  printf("hello ls deb\n");
   return 0;
 }
