@@ -38,3 +38,4 @@ binary-indep:
 	mkdir -p debian/tmp/usr/share/man/man1
 	cp hellodeb.1.gz debian/tmp/usr/share/man/man1
 	dpkg-deb --build debian/tmp ../hellodeb-doc_$(DEB_VERSION)_all.deb
+	
