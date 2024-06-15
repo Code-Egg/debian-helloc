@@ -1,10 +1,10 @@
-hellodeb (1.0-2) JAMMY; urgency=low
+hellodeb (1.0-2) jammy; urgency=low
 
   * Initial release.
 
  -- LS Egg <coldegg449@gmail.com>  Thu, 15 Jun 2024 10:21:28 +0000
 
-hellodeb (1.0-1) JAMMY; urgency=low
+hellodeb (1.0-1) jammy; urgency=low
 
   * Initial release.
 
