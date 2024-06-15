@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=`dpkg-parsechangelog --show-field Version | cut -f1 -d'-'`
+VERSION=`dpkg-parsechangelog --show-field Version`
 DEBPATH=build
 
 ./clean.sh
